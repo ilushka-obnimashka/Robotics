@@ -1,0 +1,4 @@
+Starting >>> i_trushkin
+Finished <<< i_trushkin [0.80s]
+
+Summary: 1 package finished [0.89s]

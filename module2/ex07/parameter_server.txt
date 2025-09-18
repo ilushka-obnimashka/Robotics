@@ -1,0 +1,17 @@
+[37;1m2025-09-15 01:05:00.675 [31;1m[[37;1mRTPS_TRANSPORT_SHM[31;1m Error] [37mFailed init_port fastrtps_port7000: open_and_lock_file failed[34;1m -> Function [36mopen_port_internal[m
+/turtlesim:
+  ros__parameters:
+    background_b: 255
+    background_g: 124
+    background_r: 69
+    holonomic: false
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    start_type_description_service: true
+    use_sim_time: false
+
