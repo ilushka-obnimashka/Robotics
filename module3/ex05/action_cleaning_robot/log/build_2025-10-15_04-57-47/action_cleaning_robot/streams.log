@@ -1,0 +1,28 @@
+[0.537s] Invoking command in '/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/action_cleaning_robot build --build-base /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/build install --record /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/install.log --single-version-externally-managed install_data
+[0.721s] running egg_info
+[0.721s] creating build/action_cleaning_robot/action_cleaning_robot.egg-info
+[0.735s] writing build/action_cleaning_robot/action_cleaning_robot.egg-info/PKG-INFO
+[0.735s] writing dependency_links to build/action_cleaning_robot/action_cleaning_robot.egg-info/dependency_links.txt
+[0.735s] writing entry points to build/action_cleaning_robot/action_cleaning_robot.egg-info/entry_points.txt
+[0.735s] writing requirements to build/action_cleaning_robot/action_cleaning_robot.egg-info/requires.txt
+[0.735s] writing top-level names to build/action_cleaning_robot/action_cleaning_robot.egg-info/top_level.txt
+[0.735s] writing manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+[0.749s] reading manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+[0.749s] writing manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+[0.749s] running build
+[0.749s] running install
+[0.753s] running install_data
+[0.753s] creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index
+[0.753s] creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index
+[0.753s] creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index/packages
+[0.753s] copying resource/action_cleaning_robot -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index/packages
+[0.753s] copying package.xml -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot
+[0.753s] creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/action
+[0.753s] copying action/CleaningTask.action -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/action
+[0.753s] running install_egg_info
+[0.781s] Copying build/action_cleaning_robot/action_cleaning_robot.egg-info to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info
+[0.781s] running install_scripts
+[0.870s] Installing cleaning_action_client script to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin
+[0.870s] Installing cleaning_action_server script to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin
+[0.870s] writing list of installed files to '/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/install.log'
+[0.889s] Invoked command in '/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/action_cleaning_robot build --build-base /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/build install --record /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/install.log --single-version-externally-managed install_data

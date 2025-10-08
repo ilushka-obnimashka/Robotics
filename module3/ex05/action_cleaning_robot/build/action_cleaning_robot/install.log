@@ -1,0 +1,12 @@
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index/packages/action_cleaning_robot
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/package.xml
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/action/CleaningTask.action
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/entry_points.txt
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/PKG-INFO
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/top_level.txt
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/dependency_links.txt
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/zip-safe
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/SOURCES.txt
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info/requires.txt
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin/cleaning_action_client
+/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin/cleaning_action_server

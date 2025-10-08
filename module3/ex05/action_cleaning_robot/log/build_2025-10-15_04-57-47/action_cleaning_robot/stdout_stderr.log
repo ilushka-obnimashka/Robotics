@@ -1,0 +1,26 @@
+running egg_info
+creating build/action_cleaning_robot/action_cleaning_robot.egg-info
+writing build/action_cleaning_robot/action_cleaning_robot.egg-info/PKG-INFO
+writing dependency_links to build/action_cleaning_robot/action_cleaning_robot.egg-info/dependency_links.txt
+writing entry points to build/action_cleaning_robot/action_cleaning_robot.egg-info/entry_points.txt
+writing requirements to build/action_cleaning_robot/action_cleaning_robot.egg-info/requires.txt
+writing top-level names to build/action_cleaning_robot/action_cleaning_robot.egg-info/top_level.txt
+writing manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+reading manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+writing manifest file 'build/action_cleaning_robot/action_cleaning_robot.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index
+creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index
+creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index/packages
+copying resource/action_cleaning_robot -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot
+creating /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/action
+copying action/CleaningTask.action -> /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/share/action_cleaning_robot/action
+running install_egg_info
+Copying build/action_cleaning_robot/action_cleaning_robot.egg-info to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/lib/python3.12/site-packages/action_cleaning_robot-0.0.0-py3.12.egg-info
+running install_scripts
+Installing cleaning_action_client script to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin
+Installing cleaning_action_server script to /home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/install/action_cleaning_robot/bin
+writing list of installed files to '/home/ilya-trushkin/ros2_module3/src/action_cleaning_robot/build/action_cleaning_robot/install.log'

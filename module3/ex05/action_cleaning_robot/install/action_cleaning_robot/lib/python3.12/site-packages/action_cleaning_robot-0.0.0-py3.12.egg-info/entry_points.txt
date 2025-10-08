@@ -1,0 +1,3 @@
+[console_scripts]
+cleaning_action_client = action_cleaning_robot.cleaning_action_client:main
+cleaning_action_server = action_cleaning_robot.cleaning_action_server:main
