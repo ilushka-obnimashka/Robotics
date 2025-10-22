@@ -1,0 +1,4 @@
+[console_scripts]
+carrot_broadcaster = ex2.dynamic_carrot_frame_broadcaster:main
+carrot_follower = ex2.carrot_follower:main
+turtle_tf2_broadcaster = ex2.turtle_tf2_broadcaster:main
